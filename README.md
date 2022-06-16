@@ -1,3 +1,3 @@
-# Webcrawler_livros
+# Webcrawler_films
 
-webcrawler of books website with scrapy 
+webcrawler of films website with scrapy 
